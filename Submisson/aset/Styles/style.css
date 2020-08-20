@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
 @import url("https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Arsenal:wght@700&display=swap");
-
 * {
     box-sizing: border-box;
     margin: 0;
@@ -127,7 +126,6 @@ aside {
     margin: 0 auto;
 }
 
-
 .card {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
     border-radius: 10px;
@@ -178,11 +176,11 @@ footer p {
     justify-content: center;
 }
 
-footer .icon-socmed img{
+footer .icon-socmed img {
     width: 30px;
     margin-right: 20px;
     text-align: center;
-  }
+}
 
 footer a {
     color: white;
